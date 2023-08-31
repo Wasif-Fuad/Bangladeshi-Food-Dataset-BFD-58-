@@ -1,4 +1,4 @@
-# Bangladeshi-Food-Dataset-BFD-58
+# Bangladeshi-Food-Dataset-BFD-58 (Available On kaggle)
 
 Some items are not included here due to GitHub's size restrictions.
 However, you can find all the food categories and images on Kaggle,
